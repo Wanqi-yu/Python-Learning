@@ -1,3 +1,3 @@
 # Python-Learning
 Python Learning code
-这是一个记录Python学习的文件记录，记录了每天学习的内容，每周六日记录一周的学习笔记和问题，后续会加入刷题记录和过程中发生的问题以及拍错记录
+这是一个Python的学习记录
